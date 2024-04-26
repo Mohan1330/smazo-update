@@ -1,0 +1,2 @@
+# smazo-update
+smao-app
